@@ -1,10 +1,7 @@
 {
-    "name": "flowgraph",
-    "version": "1.0.0",
-    "description": "tool for create unity graphview from scripts",
-    "keywords": [
-        "graphview",
-        "visualization"
-    ],
-    "author": "basdidon"
-}
+    "name": "com.h8studio.flowgraph",
+    "version": "1.0.1",
+    "displayName": "H8 FlowGraph",
+    "description": "Tool for Create Custom Node from a scripts,\nand Visualize them in Unity's GraphView,\nmake it easier to read and edit,\nmain goal is for dialogue management system",
+    "unity": "2022.3"
+  }
