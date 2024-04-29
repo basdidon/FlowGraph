@@ -1,0 +1,10 @@
+{
+    "name": "flowgraph",
+    "version": "1.0.0",
+    "description": "tool for create unity graphview from scripts",
+    "keywords": [
+        "graphview",
+        "visualization"
+    ],
+    "author": "basdidon"
+}
